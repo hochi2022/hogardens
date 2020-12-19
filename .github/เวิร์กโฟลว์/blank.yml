@@ -2,7 +2,15 @@
 
 name: CI
 
-# Controls when the action will run. 
+# Ctrash
+
+draft
+
+arm
+
+enroll possible bachelor gasp
+
+brief type avoid wool film useful broken slowontrols when the action will run. 
 on:
   # Triggers the workflow on push or pull request events but only for the main branch
   push:
